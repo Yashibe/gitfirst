@@ -1,0 +1,13 @@
+Instructions:
+1) Extract archive
+2) Install "Acrobat_DC_Web_WWMUI.exe" with trial when it ask for serial
+3) When installation is done, don't open!
+3) Install "AcrobatDCUpd2000920063.msp"
+4) Extract "adobe.snr.patch.v2.0-painter.zip" 
+5) Run as Administrator "adobe.snr.patch.v2.0-painter.exe" (Make sure to disable your antivirus before you run it)
+6) Select Adobe Acrobat Pro DC 2015 (32-bit) > Screenshot: https://imgsaver.com/image/yy5O
+7) Run Acrobat, accept Terms, go to EDIT > PREFERENCES > UPDATER > uncheck Automatically insatlla updates > Screenshot: https://imgsaver.com/image/yFl8
+DONE!
+ 
+
+You can always thank us here:  www.TheWindowsForum.com /  www.ThumperDC.com
